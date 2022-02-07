@@ -1,0 +1,342 @@
+/* extra small device */
+/* larg device */
+
+/* medioum device */
+@media(min-width:768px) and (max-width:991px){
+    .navbar-brand img{
+        width: 150px;
+    }
+    
+    .ban_txt h1 {
+      
+        font-size: 38px !important;
+    }
+    .ban_txt p {
+       
+        font-size: 24px !important;
+      
+    }
+    .ban_btn {
+     
+        padding-top: 58px;
+    }
+    .ban_btn a {
+        padding: 15px 20px;
+        font-size: 15px;
+    }
+    .main_manu {
+        background-color: darkblue;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 222;
+        width: 100%;
+    }
+    .main_manu ul {
+        text-align: center;
+       
+    }
+
+    
+    .navbar-light .navbar-toggler {
+        color: white;
+        border-color:hsl(0, 0%, 100%,0.5);
+    }
+    .ban_slick {
+        padding-top: 202px;
+        padding-bottom: 163px;
+      
+    }
+    #banner .slick-dots {
+        bottom: 12px;
+    }
+    .prev {
+       
+       
+        left: 10%;
+       
+    }
+    .next {
+       
+        right: 10%;
+       
+    }
+    .read_txt p {
+       
+        font-size: 22px;
+        line-height: 35px;
+       
+    }
+    .read_txt h5 {
+       
+        font-size: 22px;
+        line-height: 35px;
+       
+    }
+    .test_item p::after {
+       
+        top: 337px;
+        left: 28px;
+       
+       
+    }
+    .f_item_three h2 {
+        padding-top: 20px;
+       
+    }
+    .f_item_fowr h2 {
+        padding-top: 20px;
+       
+    }
+}
+    
+
+/* small device */
+@media(min-width:576px) and (max-width:767px){
+    .navbar-brand img{
+        width: 150px;
+    }
+    
+    .ban_txt h1 {
+      
+        font-size: 38px !important;
+    }
+    .ban_txt p {
+       
+        font-size: 24px !important;
+      
+    }
+    .ban_btn {
+     
+        padding-top: 58px;
+    }
+    .ban_btn a {
+        padding: 15px 20px;
+        font-size: 15px;
+    }
+    .main_manu {
+        background-color: darkblue;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 222;
+        width: 100%;
+    }
+    .main_manu ul {
+        text-align: center;
+       
+    }
+
+    
+    .navbar-light .navbar-toggler {
+        color: white;
+        border-color:hsl(0, 0%, 100%,0.5);
+    }
+    .ban_slick {
+        padding-top: 202px;
+        padding-bottom: 163px;
+      
+    }
+    #banner .slick-dots {
+        bottom: 12px;
+    }
+    .next {
+       
+        display: none !important;
+    }
+    .prev {
+       
+        display: none !important;
+    }
+    #offer {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .offar_main {
+        padding-top: 90px;
+    }
+    
+    .offer_item p {
+        padding-right: 50px;
+       
+    }
+    .read_txt {
+        text-align: justify;
+        padding-left: 28px;
+        
+    }
+    .read_txt p {
+        
+        font-size: 20px;
+       
+        line-height: 27px;
+       
+    }
+    .read_btn {
+        padding-top: 36px;
+        padding-bottom: 40px;
+       
+    }
+    .read_btn a {
+        padding: 14px 24px;
+        font-size: 14px;
+    }
+    
+    .show_more a {
+        padding: 9px 14px;
+        font-size: 12px;
+       
+    }
+    .show_more {
+       
+        padding-top: 22px;
+    }
+    .sub_1 {
+        text-align: center;
+        
+    }
+    .sub_3 ul {
+        padding-top: 20px;
+        text-align: center;
+    }
+    .f_item_two h2 {
+        padding-top: 20px;
+     
+    }
+    .f_item_fowr h2 {
+        padding-top: 20px;
+       
+    }
+    .test_item p::after {
+        transform: translateX(-20%);
+        top: 100%;
+        left: 20%;
+        border-top: 30px solid #cacaca;
+        border-right: 40px solid transparent;
+    }
+   
+
+}
+/* extra small device */
+@media(max-width:575px){
+    .navbar-brand img{
+        width: 150px;
+    }
+    
+    .ban_txt h1 {
+      
+        font-size: 23px !important;
+    }
+    .ban_txt p {
+       
+        font-size: 16px !important;
+      
+    }
+    .ban_btn {
+     
+        padding-top: 22px;
+    }
+    .ban_btn a {
+        padding: 12px 13px;
+        font-size: 11px;
+      
+    }
+    .main_manu {
+        background-color: darkblue;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 222;
+        width: 100%;
+    }
+    .main_manu ul {
+        text-align: center;
+       
+    }
+
+    
+    .navbar-light .navbar-toggler {
+        color: white;
+        border-color:hsl(0, 0%, 100%,0.5);
+    }
+    .ban_slick {
+        padding-top: 125px;
+        padding-bottom: 71px;
+        background-position: center !important;
+        background-size: cover !important;
+        background-repeat: no-repeat !important;
+    }
+    .next {
+       
+        display: none !important;
+    }
+    .prev {
+       
+        display: none !important;
+    }
+    #offer {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .offer_item i {
+        transform: translateX(-50% );
+        top: 20px;
+        left: 50%;
+       
+    }
+    .offer_item h2 {
+        text-align: center;
+        font-size: 21px;
+       
+        padding-left: 0px;
+    }
+    .offer_item p {
+        text-align: center;
+       
+       
+    }
+    .offer_item p {
+        padding-right: 50px;
+       
+    }
+    .read_txt {
+        text-align: justify;
+        padding-left: 28px;
+        
+    }
+    .read_btn {
+        padding-top: 36px;
+        padding-bottom: 40px;
+       
+    }
+    .read_btn a {
+        padding: 11px 11px;
+        font-size: 10px;
+       
+    }
+    
+    .show_more a {
+        padding: 9px 14px;
+        font-size: 12px;
+       
+    }
+    .show_more {
+       
+        padding-top: 22px;
+    }
+    .sub_1 {
+        text-align: center;
+        
+    }
+    .sub_3 ul {
+        padding-top: 40px;
+        text-align: center;
+    }
+    .test_item p::after {
+        transform: translateX(-20%);
+        top: 100%;
+        left: 20%;
+        border-top: 30px solid #cacaca;
+        border-right: 40px solid transparent;
+    }
+}
